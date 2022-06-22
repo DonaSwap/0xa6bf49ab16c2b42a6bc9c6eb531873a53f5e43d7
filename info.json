@@ -3,7 +3,7 @@
   "type": "BEP20",
   "symbol": "DONA",
   "decimals": 9,
-  "description": "DONASWAP is a deflationary currency with a 10% tax on every transaction which can be used to stake, farm and swap on the Binance Smart Chain.",
+  "description": "DONASWAP is a deflationary currency with a 10% tax on every transaction. $DONA can be used to stake, farm and swap on the Binance Smart Chain.",
   "website": "https://donaswap.com",
   "explorer": "https://bscscan.com/token/0xa6bf49ab16c2b42a6bc9c6eb531873a53f5e43d7",
   "id": "0xa6bf49ab16c2b42a6bc9c6eb531873a53f5e43d7",
